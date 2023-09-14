@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "module": "Node16",
+    "declaration": true,
+    "sourceMap": true,
+    "outDir": "dist"
+  },
+  "include": ["src"]
+}
