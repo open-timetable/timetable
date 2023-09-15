@@ -1,12 +1,13 @@
 {
   "name": "open-timetable",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "version": "1.0.1",
+  "description": "The Open Class Timetable Data Structure Project",
+  "author": "Zero <gczgroup@qq.com>",
+  "license": "MIT",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "tsc"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "dependencies": {
+    "typescript": "^5.2.2"
+  }
 }
